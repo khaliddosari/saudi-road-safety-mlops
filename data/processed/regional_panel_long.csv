@@ -1,0 +1,1106 @@
+region,region_ar,year,metric,value
+Al-Baha,الباحة,2020,injuries,628.0
+Al-Baha,الباحة,2021,injuries,565.0
+Al-Baha,الباحة,2022,injuries,526.0
+Al-Baha,الباحة,2023,injuries,500
+Al-Baha,الباحة,2024,injuries,551
+Al-Jouf,الجوف,2020,injuries,359.0
+Al-Jouf,الجوف,2021,injuries,423.0
+Al-Jouf,الجوف,2022,injuries,191.0
+Al-Jouf,الجوف,2023,injuries,133
+Al-Jouf,الجوف,2024,injuries,132
+Aseer,عسير,2020,injuries,1718.0
+Aseer,عسير,2021,injuries,1621.0
+Aseer,عسير,2022,injuries,1337.0
+Aseer,عسير,2023,injuries,1055
+Aseer,عسير,2024,injuries,1226
+Eastern,المنطقة الشرقية,2020,injuries,2121.0
+Eastern,المنطقة الشرقية,2021,injuries,2162.0
+Eastern,المنطقة الشرقية,2022,injuries,2591.0
+Eastern,المنطقة الشرقية,2023,injuries,2358
+Eastern,المنطقة الشرقية,2024,injuries,2330
+Hail,حائل,2020,injuries,601.0
+Hail,حائل,2021,injuries,473.0
+Hail,حائل,2022,injuries,201.0
+Hail,حائل,2023,injuries,78
+Hail,حائل,2024,injuries,182
+Jazan,جازان,2020,injuries,1841.0
+Jazan,جازان,2021,injuries,1545.0
+Jazan,جازان,2022,injuries,1215.0
+Jazan,جازان,2023,injuries,1029
+Jazan,جازان,2024,injuries,1109
+Madinah,المدينة المنورة,2020,injuries,2607.0
+Madinah,المدينة المنورة,2021,injuries,2653.0
+Madinah,المدينة المنورة,2022,injuries,2652.0
+Madinah,المدينة المنورة,2023,injuries,3109
+Madinah,المدينة المنورة,2024,injuries,2630
+Makkah,مكة المكرمة,2020,injuries,8502.0
+Makkah,مكة المكرمة,2021,injuries,8827.0
+Makkah,مكة المكرمة,2022,injuries,8879.0
+Makkah,مكة المكرمة,2023,injuries,9143
+Makkah,مكة المكرمة,2024,injuries,8211
+Najran,نجران,2020,injuries,512.0
+Najran,نجران,2021,injuries,508.0
+Najran,نجران,2022,injuries,228.0
+Najran,نجران,2023,injuries,133
+Najran,نجران,2024,injuries,263
+Northern Borders,الحدود الشمالية,2020,injuries,320.0
+Northern Borders,الحدود الشمالية,2021,injuries,366.0
+Northern Borders,الحدود الشمالية,2022,injuries,362.0
+Northern Borders,الحدود الشمالية,2023,injuries,262
+Northern Borders,الحدود الشمالية,2024,injuries,222
+Qassim,القصيم,2020,injuries,1265.0
+Qassim,القصيم,2021,injuries,1168.0
+Qassim,القصيم,2022,injuries,1150.0
+Qassim,القصيم,2023,injuries,1069
+Qassim,القصيم,2024,injuries,919
+Riyadh,الرياض,2020,injuries,4286.0
+Riyadh,الرياض,2021,injuries,4552.0
+Riyadh,الرياض,2022,injuries,4585.0
+Riyadh,الرياض,2023,injuries,4646
+Riyadh,الرياض,2024,injuries,5503
+Tabuk,تبوك,2020,injuries,801.0
+Tabuk,تبوك,2021,injuries,649.0
+Tabuk,تبوك,2022,injuries,529.0
+Tabuk,تبوك,2023,injuries,487
+Tabuk,تبوك,2024,injuries,799
+Al-Baha,الباحة,2020,deaths,95.0
+Al-Baha,الباحة,2021,deaths,92.0
+Al-Baha,الباحة,2022,deaths,98.0
+Al-Baha,الباحة,2023,deaths,67
+Al-Baha,الباحة,2024,deaths,61
+Al-Jouf,الجوف,2020,deaths,118.0
+Al-Jouf,الجوف,2021,deaths,105.0
+Al-Jouf,الجوف,2022,deaths,82.0
+Al-Jouf,الجوف,2023,deaths,58
+Al-Jouf,الجوف,2024,deaths,61
+Aseer,عسير,2020,deaths,601.0
+Aseer,عسير,2021,deaths,536.0
+Aseer,عسير,2022,deaths,456.0
+Aseer,عسير,2023,deaths,433
+Aseer,عسير,2024,deaths,460
+Eastern,المنطقة الشرقية,2020,deaths,480.0
+Eastern,المنطقة الشرقية,2021,deaths,499.0
+Eastern,المنطقة الشرقية,2022,deaths,508.0
+Eastern,المنطقة الشرقية,2023,deaths,528
+Eastern,المنطقة الشرقية,2024,deaths,496
+Hail,حائل,2020,deaths,164.0
+Hail,حائل,2021,deaths,141.0
+Hail,حائل,2022,deaths,120.0
+Hail,حائل,2023,deaths,84
+Hail,حائل,2024,deaths,109
+Jazan,جازان,2020,deaths,327.0
+Jazan,جازان,2021,deaths,368.0
+Jazan,جازان,2022,deaths,362.0
+Jazan,جازان,2023,deaths,287
+Jazan,جازان,2024,deaths,256
+Madinah,المدينة المنورة,2020,deaths,308.0
+Madinah,المدينة المنورة,2021,deaths,276.0
+Madinah,المدينة المنورة,2022,deaths,292.0
+Madinah,المدينة المنورة,2023,deaths,309
+Madinah,المدينة المنورة,2024,deaths,264
+Makkah,مكة المكرمة,2020,deaths,953.0
+Makkah,مكة المكرمة,2021,deaths,945.0
+Makkah,مكة المكرمة,2022,deaths,1101.0
+Makkah,مكة المكرمة,2023,deaths,1157
+Makkah,مكة المكرمة,2024,deaths,1054
+Najran,نجران,2020,deaths,114.0
+Najran,نجران,2021,deaths,133.0
+Najran,نجران,2022,deaths,108.0
+Najran,نجران,2023,deaths,63
+Najran,نجران,2024,deaths,93
+Northern Borders,الحدود الشمالية,2020,deaths,72.0
+Northern Borders,الحدود الشمالية,2021,deaths,56.0
+Northern Borders,الحدود الشمالية,2022,deaths,54.0
+Northern Borders,الحدود الشمالية,2023,deaths,51
+Northern Borders,الحدود الشمالية,2024,deaths,45
+Qassim,القصيم,2020,deaths,214.0
+Qassim,القصيم,2021,deaths,266.0
+Qassim,القصيم,2022,deaths,221.0
+Qassim,القصيم,2023,deaths,223
+Qassim,القصيم,2024,deaths,196
+Riyadh,الرياض,2020,deaths,971.0
+Riyadh,الرياض,2021,deaths,1035.0
+Riyadh,الرياض,2022,deaths,960.0
+Riyadh,الرياض,2023,deaths,956
+Riyadh,الرياض,2024,deaths,953
+Tabuk,تبوك,2020,deaths,201.0
+Tabuk,تبوك,2021,deaths,200.0
+Tabuk,تبوك,2022,deaths,193.0
+Tabuk,تبوك,2023,deaths,207
+Tabuk,تبوك,2024,deaths,234
+Al-Baha,الباحة,2020,severe_in_city,
+Al-Baha,الباحة,2021,severe_in_city,
+Al-Baha,الباحة,2022,severe_in_city,
+Al-Baha,الباحة,2023,severe_in_city,
+Al-Baha,الباحة,2024,severe_in_city,146
+Al-Jouf,الجوف,2020,severe_in_city,
+Al-Jouf,الجوف,2021,severe_in_city,
+Al-Jouf,الجوف,2022,severe_in_city,
+Al-Jouf,الجوف,2023,severe_in_city,
+Al-Jouf,الجوف,2024,severe_in_city,91
+Aseer,عسير,2020,severe_in_city,
+Aseer,عسير,2021,severe_in_city,
+Aseer,عسير,2022,severe_in_city,
+Aseer,عسير,2023,severe_in_city,
+Aseer,عسير,2024,severe_in_city,104
+Eastern,المنطقة الشرقية,2020,severe_in_city,
+Eastern,المنطقة الشرقية,2021,severe_in_city,
+Eastern,المنطقة الشرقية,2022,severe_in_city,
+Eastern,المنطقة الشرقية,2023,severe_in_city,
+Eastern,المنطقة الشرقية,2024,severe_in_city,998
+Hail,حائل,2020,severe_in_city,
+Hail,حائل,2021,severe_in_city,
+Hail,حائل,2022,severe_in_city,
+Hail,حائل,2023,severe_in_city,
+Hail,حائل,2024,severe_in_city,115
+Jazan,جازان,2020,severe_in_city,
+Jazan,جازان,2021,severe_in_city,
+Jazan,جازان,2022,severe_in_city,
+Jazan,جازان,2023,severe_in_city,
+Jazan,جازان,2024,severe_in_city,222
+Madinah,المدينة المنورة,2020,severe_in_city,
+Madinah,المدينة المنورة,2021,severe_in_city,
+Madinah,المدينة المنورة,2022,severe_in_city,
+Madinah,المدينة المنورة,2023,severe_in_city,
+Madinah,المدينة المنورة,2024,severe_in_city,1126
+Makkah,مكة المكرمة,2020,severe_in_city,
+Makkah,مكة المكرمة,2021,severe_in_city,
+Makkah,مكة المكرمة,2022,severe_in_city,
+Makkah,مكة المكرمة,2023,severe_in_city,
+Makkah,مكة المكرمة,2024,severe_in_city,3620
+Najran,نجران,2020,severe_in_city,
+Najran,نجران,2021,severe_in_city,
+Najran,نجران,2022,severe_in_city,
+Najran,نجران,2023,severe_in_city,
+Najran,نجران,2024,severe_in_city,87
+Northern Borders,الحدود الشمالية,2020,severe_in_city,
+Northern Borders,الحدود الشمالية,2021,severe_in_city,
+Northern Borders,الحدود الشمالية,2022,severe_in_city,
+Northern Borders,الحدود الشمالية,2023,severe_in_city,
+Northern Borders,الحدود الشمالية,2024,severe_in_city,131
+Qassim,القصيم,2020,severe_in_city,
+Qassim,القصيم,2021,severe_in_city,
+Qassim,القصيم,2022,severe_in_city,
+Qassim,القصيم,2023,severe_in_city,
+Qassim,القصيم,2024,severe_in_city,395
+Riyadh,الرياض,2020,severe_in_city,
+Riyadh,الرياض,2021,severe_in_city,
+Riyadh,الرياض,2022,severe_in_city,
+Riyadh,الرياض,2023,severe_in_city,
+Riyadh,الرياض,2024,severe_in_city,3150
+Tabuk,تبوك,2020,severe_in_city,
+Tabuk,تبوك,2021,severe_in_city,
+Tabuk,تبوك,2022,severe_in_city,
+Tabuk,تبوك,2023,severe_in_city,
+Tabuk,تبوك,2024,severe_in_city,207
+Al-Baha,الباحة,2020,severe_out_city,
+Al-Baha,الباحة,2021,severe_out_city,
+Al-Baha,الباحة,2022,severe_out_city,
+Al-Baha,الباحة,2023,severe_out_city,
+Al-Baha,الباحة,2024,severe_out_city,201
+Al-Jouf,الجوف,2020,severe_out_city,
+Al-Jouf,الجوف,2021,severe_out_city,
+Al-Jouf,الجوف,2022,severe_out_city,
+Al-Jouf,الجوف,2023,severe_out_city,
+Al-Jouf,الجوف,2024,severe_out_city,43
+Aseer,عسير,2020,severe_out_city,
+Aseer,عسير,2021,severe_out_city,
+Aseer,عسير,2022,severe_out_city,
+Aseer,عسير,2023,severe_out_city,
+Aseer,عسير,2024,severe_out_city,688
+Eastern,المنطقة الشرقية,2020,severe_out_city,
+Eastern,المنطقة الشرقية,2021,severe_out_city,
+Eastern,المنطقة الشرقية,2022,severe_out_city,
+Eastern,المنطقة الشرقية,2023,severe_out_city,
+Eastern,المنطقة الشرقية,2024,severe_out_city,724
+Hail,حائل,2020,severe_out_city,
+Hail,حائل,2021,severe_out_city,
+Hail,حائل,2022,severe_out_city,
+Hail,حائل,2023,severe_out_city,
+Hail,حائل,2024,severe_out_city,88
+Jazan,جازان,2020,severe_out_city,
+Jazan,جازان,2021,severe_out_city,
+Jazan,جازان,2022,severe_out_city,
+Jazan,جازان,2023,severe_out_city,
+Jazan,جازان,2024,severe_out_city,505
+Madinah,المدينة المنورة,2020,severe_out_city,
+Madinah,المدينة المنورة,2021,severe_out_city,
+Madinah,المدينة المنورة,2022,severe_out_city,
+Madinah,المدينة المنورة,2023,severe_out_city,
+Madinah,المدينة المنورة,2024,severe_out_city,651
+Makkah,مكة المكرمة,2020,severe_out_city,
+Makkah,مكة المكرمة,2021,severe_out_city,
+Makkah,مكة المكرمة,2022,severe_out_city,
+Makkah,مكة المكرمة,2023,severe_out_city,
+Makkah,مكة المكرمة,2024,severe_out_city,2205
+Najran,نجران,2020,severe_out_city,
+Najran,نجران,2021,severe_out_city,
+Najran,نجران,2022,severe_out_city,
+Najran,نجران,2023,severe_out_city,
+Najran,نجران,2024,severe_out_city,108
+Northern Borders,الحدود الشمالية,2020,severe_out_city,
+Northern Borders,الحدود الشمالية,2021,severe_out_city,
+Northern Borders,الحدود الشمالية,2022,severe_out_city,
+Northern Borders,الحدود الشمالية,2023,severe_out_city,
+Northern Borders,الحدود الشمالية,2024,severe_out_city,47
+Qassim,القصيم,2020,severe_out_city,
+Qassim,القصيم,2021,severe_out_city,
+Qassim,القصيم,2022,severe_out_city,
+Qassim,القصيم,2023,severe_out_city,
+Qassim,القصيم,2024,severe_out_city,268
+Riyadh,الرياض,2020,severe_out_city,
+Riyadh,الرياض,2021,severe_out_city,
+Riyadh,الرياض,2022,severe_out_city,
+Riyadh,الرياض,2023,severe_out_city,
+Riyadh,الرياض,2024,severe_out_city,1046
+Tabuk,تبوك,2020,severe_out_city,
+Tabuk,تبوك,2021,severe_out_city,
+Tabuk,تبوك,2022,severe_out_city,
+Tabuk,تبوك,2023,severe_out_city,
+Tabuk,تبوك,2024,severe_out_city,265
+Al-Baha,الباحة,2020,severe_total,
+Al-Baha,الباحة,2021,severe_total,388
+Al-Baha,الباحة,2022,severe_total,344
+Al-Baha,الباحة,2023,severe_total,301
+Al-Baha,الباحة,2024,severe_total,347
+Al-Jouf,الجوف,2020,severe_total,
+Al-Jouf,الجوف,2021,severe_total,321
+Al-Jouf,الجوف,2022,severe_total,188
+Al-Jouf,الجوف,2023,severe_total,110
+Al-Jouf,الجوف,2024,severe_total,134
+Aseer,عسير,2020,severe_total,
+Aseer,عسير,2021,severe_total,1072
+Aseer,عسير,2022,severe_total,927
+Aseer,عسير,2023,severe_total,644
+Aseer,عسير,2024,severe_total,792
+Eastern,المنطقة الشرقية,2020,severe_total,
+Eastern,المنطقة الشرقية,2021,severe_total,1636
+Eastern,المنطقة الشرقية,2022,severe_total,1862
+Eastern,المنطقة الشرقية,2023,severe_total,1734
+Eastern,المنطقة الشرقية,2024,severe_total,1722
+Hail,حائل,2020,severe_total,
+Hail,حائل,2021,severe_total,446
+Hail,حائل,2022,severe_total,245
+Hail,حائل,2023,severe_total,127
+Hail,حائل,2024,severe_total,203
+Jazan,جازان,2020,severe_total,
+Jazan,جازان,2021,severe_total,1042
+Jazan,جازان,2022,severe_total,822
+Jazan,جازان,2023,severe_total,752
+Jazan,جازان,2024,severe_total,727
+Madinah,المدينة المنورة,2020,severe_total,
+Madinah,المدينة المنورة,2021,severe_total,1767
+Madinah,المدينة المنورة,2022,severe_total,1737
+Madinah,المدينة المنورة,2023,severe_total,2068
+Madinah,المدينة المنورة,2024,severe_total,1777
+Makkah,مكة المكرمة,2020,severe_total,
+Makkah,مكة المكرمة,2021,severe_total,5885
+Makkah,مكة المكرمة,2022,severe_total,5925
+Makkah,مكة المكرمة,2023,severe_total,6139
+Makkah,مكة المكرمة,2024,severe_total,5825
+Najran,نجران,2020,severe_total,
+Najran,نجران,2021,severe_total,414
+Najran,نجران,2022,severe_total,194
+Najran,نجران,2023,severe_total,98
+Najran,نجران,2024,severe_total,195
+Northern Borders,الحدود الشمالية,2020,severe_total,
+Northern Borders,الحدود الشمالية,2021,severe_total,234
+Northern Borders,الحدود الشمالية,2022,severe_total,254
+Northern Borders,الحدود الشمالية,2023,severe_total,206
+Northern Borders,الحدود الشمالية,2024,severe_total,178
+Qassim,القصيم,2020,severe_total,
+Qassim,القصيم,2021,severe_total,854
+Qassim,القصيم,2022,severe_total,790
+Qassim,القصيم,2023,severe_total,695
+Qassim,القصيم,2024,severe_total,663
+Riyadh,الرياض,2020,severe_total,
+Riyadh,الرياض,2021,severe_total,3621
+Riyadh,الرياض,2022,severe_total,3303
+Riyadh,الرياض,2023,severe_total,3315
+Riyadh,الرياض,2024,severe_total,4196
+Tabuk,تبوك,2020,severe_total,
+Tabuk,تبوك,2021,severe_total,522
+Tabuk,تبوك,2022,severe_total,371
+Tabuk,تبوك,2023,severe_total,345
+Tabuk,تبوك,2024,severe_total,472
+Al-Baha,الباحة,2020,vehicles_new,1193
+Al-Baha,الباحة,2021,vehicles_new,1325
+Al-Baha,الباحة,2022,vehicles_new,1041
+Al-Baha,الباحة,2023,vehicles_new,1279
+Al-Baha,الباحة,2024,vehicles_new,1577
+Al-Jouf,الجوف,2020,vehicles_new,6015
+Al-Jouf,الجوف,2021,vehicles_new,8218
+Al-Jouf,الجوف,2022,vehicles_new,7597
+Al-Jouf,الجوف,2023,vehicles_new,6522
+Al-Jouf,الجوف,2024,vehicles_new,5941
+Aseer,عسير,2020,vehicles_new,18270
+Aseer,عسير,2021,vehicles_new,19880
+Aseer,عسير,2022,vehicles_new,15384
+Aseer,عسير,2023,vehicles_new,17837
+Aseer,عسير,2024,vehicles_new,18679
+Eastern,المنطقة الشرقية,2020,vehicles_new,58700
+Eastern,المنطقة الشرقية,2021,vehicles_new,73729
+Eastern,المنطقة الشرقية,2022,vehicles_new,70952
+Eastern,المنطقة الشرقية,2023,vehicles_new,94352
+Eastern,المنطقة الشرقية,2024,vehicles_new,106370
+Hail,حائل,2020,vehicles_new,4646
+Hail,حائل,2021,vehicles_new,4325
+Hail,حائل,2022,vehicles_new,3097
+Hail,حائل,2023,vehicles_new,4686
+Hail,حائل,2024,vehicles_new,7431
+Jazan,جازان,2020,vehicles_new,9865
+Jazan,جازان,2021,vehicles_new,12080
+Jazan,جازان,2022,vehicles_new,10905
+Jazan,جازان,2023,vehicles_new,10906
+Jazan,جازان,2024,vehicles_new,14115
+Madinah,المدينة المنورة,2020,vehicles_new,8018
+Madinah,المدينة المنورة,2021,vehicles_new,12182
+Madinah,المدينة المنورة,2022,vehicles_new,12056
+Madinah,المدينة المنورة,2023,vehicles_new,16576
+Madinah,المدينة المنورة,2024,vehicles_new,21185
+Makkah,مكة المكرمة,2020,vehicles_new,46568
+Makkah,مكة المكرمة,2021,vehicles_new,59089
+Makkah,مكة المكرمة,2022,vehicles_new,61007
+Makkah,مكة المكرمة,2023,vehicles_new,92419
+Makkah,مكة المكرمة,2024,vehicles_new,117050
+Najran,نجران,2020,vehicles_new,5497
+Najran,نجران,2021,vehicles_new,4421
+Najran,نجران,2022,vehicles_new,4872
+Najran,نجران,2023,vehicles_new,6865
+Najran,نجران,2024,vehicles_new,8061
+Northern Borders,الحدود الشمالية,2020,vehicles_new,1676
+Northern Borders,الحدود الشمالية,2021,vehicles_new,1582
+Northern Borders,الحدود الشمالية,2022,vehicles_new,1198
+Northern Borders,الحدود الشمالية,2023,vehicles_new,1805
+Northern Borders,الحدود الشمالية,2024,vehicles_new,2114
+Qassim,القصيم,2020,vehicles_new,22258
+Qassim,القصيم,2021,vehicles_new,25894
+Qassim,القصيم,2022,vehicles_new,23131
+Qassim,القصيم,2023,vehicles_new,25075
+Qassim,القصيم,2024,vehicles_new,23235
+Riyadh,الرياض,2020,vehicles_new,134532
+Riyadh,الرياض,2021,vehicles_new,150168
+Riyadh,الرياض,2022,vehicles_new,145794
+Riyadh,الرياض,2023,vehicles_new,189041
+Riyadh,الرياض,2024,vehicles_new,266936
+Tabuk,تبوك,2020,vehicles_new,4317
+Tabuk,تبوك,2021,vehicles_new,5382
+Tabuk,تبوك,2022,vehicles_new,4628
+Tabuk,تبوك,2023,vehicles_new,5049
+Tabuk,تبوك,2024,vehicles_new,5471
+Al-Baha,الباحة,2020,vehicles_renewal,16970
+Al-Baha,الباحة,2021,vehicles_renewal,10724
+Al-Baha,الباحة,2022,vehicles_renewal,11010
+Al-Baha,الباحة,2023,vehicles_renewal,11837
+Al-Baha,الباحة,2024,vehicles_renewal,12571
+Al-Jouf,الجوف,2020,vehicles_renewal,23001
+Al-Jouf,الجوف,2021,vehicles_renewal,17861
+Al-Jouf,الجوف,2022,vehicles_renewal,19940
+Al-Jouf,الجوف,2023,vehicles_renewal,19639
+Al-Jouf,الجوف,2024,vehicles_renewal,23602
+Aseer,عسير,2020,vehicles_renewal,84151
+Aseer,عسير,2021,vehicles_renewal,61302
+Aseer,عسير,2022,vehicles_renewal,64696
+Aseer,عسير,2023,vehicles_renewal,68553
+Aseer,عسير,2024,vehicles_renewal,79058
+Eastern,المنطقة الشرقية,2020,vehicles_renewal,375087
+Eastern,المنطقة الشرقية,2021,vehicles_renewal,303085
+Eastern,المنطقة الشرقية,2022,vehicles_renewal,327503
+Eastern,المنطقة الشرقية,2023,vehicles_renewal,323787
+Eastern,المنطقة الشرقية,2024,vehicles_renewal,366577
+Hail,حائل,2020,vehicles_renewal,27967
+Hail,حائل,2021,vehicles_renewal,21601
+Hail,حائل,2022,vehicles_renewal,23165
+Hail,حائل,2023,vehicles_renewal,22586
+Hail,حائل,2024,vehicles_renewal,26486
+Jazan,جازان,2020,vehicles_renewal,37716
+Jazan,جازان,2021,vehicles_renewal,26074
+Jazan,جازان,2022,vehicles_renewal,27770
+Jazan,جازان,2023,vehicles_renewal,29803
+Jazan,جازان,2024,vehicles_renewal,34552
+Madinah,المدينة المنورة,2020,vehicles_renewal,55402
+Madinah,المدينة المنورة,2021,vehicles_renewal,37569
+Madinah,المدينة المنورة,2022,vehicles_renewal,40773
+Madinah,المدينة المنورة,2023,vehicles_renewal,39978
+Madinah,المدينة المنورة,2024,vehicles_renewal,48402
+Makkah,مكة المكرمة,2020,vehicles_renewal,426231
+Makkah,مكة المكرمة,2021,vehicles_renewal,304459
+Makkah,مكة المكرمة,2022,vehicles_renewal,326687
+Makkah,مكة المكرمة,2023,vehicles_renewal,315668
+Makkah,مكة المكرمة,2024,vehicles_renewal,364938
+Najran,نجران,2020,vehicles_renewal,21020
+Najran,نجران,2021,vehicles_renewal,17042
+Najran,نجران,2022,vehicles_renewal,17412
+Najran,نجران,2023,vehicles_renewal,19214
+Najran,نجران,2024,vehicles_renewal,21938
+Northern Borders,الحدود الشمالية,2020,vehicles_renewal,10718
+Northern Borders,الحدود الشمالية,2021,vehicles_renewal,8003
+Northern Borders,الحدود الشمالية,2022,vehicles_renewal,8516
+Northern Borders,الحدود الشمالية,2023,vehicles_renewal,9018
+Northern Borders,الحدود الشمالية,2024,vehicles_renewal,10141
+Qassim,القصيم,2020,vehicles_renewal,81680
+Qassim,القصيم,2021,vehicles_renewal,59058
+Qassim,القصيم,2022,vehicles_renewal,66964
+Qassim,القصيم,2023,vehicles_renewal,71353
+Qassim,القصيم,2024,vehicles_renewal,82928
+Riyadh,الرياض,2020,vehicles_renewal,558342
+Riyadh,الرياض,2021,vehicles_renewal,418962
+Riyadh,الرياض,2022,vehicles_renewal,487787
+Riyadh,الرياض,2023,vehicles_renewal,490581
+Riyadh,الرياض,2024,vehicles_renewal,562097
+Tabuk,تبوك,2020,vehicles_renewal,30841
+Tabuk,تبوك,2021,vehicles_renewal,22699
+Tabuk,تبوك,2022,vehicles_renewal,23393
+Tabuk,تبوك,2023,vehicles_renewal,24961
+Tabuk,تبوك,2024,vehicles_renewal,28071
+Al-Baha,الباحة,2020,licenses_new,5843
+Al-Baha,الباحة,2021,licenses_new,8336
+Al-Baha,الباحة,2022,licenses_new,13075
+Al-Baha,الباحة,2023,licenses_new,11747
+Al-Baha,الباحة,2024,licenses_new,12512
+Al-Jouf,الجوف,2020,licenses_new,9069
+Al-Jouf,الجوف,2021,licenses_new,14324
+Al-Jouf,الجوف,2022,licenses_new,17746
+Al-Jouf,الجوف,2023,licenses_new,15639
+Al-Jouf,الجوف,2024,licenses_new,15805
+Aseer,عسير,2020,licenses_new,36408
+Aseer,عسير,2021,licenses_new,59495
+Aseer,عسير,2022,licenses_new,65277
+Aseer,عسير,2023,licenses_new,69192
+Aseer,عسير,2024,licenses_new,73106
+Eastern,المنطقة الشرقية,2020,licenses_new,113610
+Eastern,المنطقة الشرقية,2021,licenses_new,162452
+Eastern,المنطقة الشرقية,2022,licenses_new,187164
+Eastern,المنطقة الشرقية,2023,licenses_new,211378
+Eastern,المنطقة الشرقية,2024,licenses_new,207868
+Hail,حائل,2020,licenses_new,7977
+Hail,حائل,2021,licenses_new,13367
+Hail,حائل,2022,licenses_new,14259
+Hail,حائل,2023,licenses_new,14023
+Hail,حائل,2024,licenses_new,12958
+Jazan,جازان,2020,licenses_new,14623
+Jazan,جازان,2021,licenses_new,22406
+Jazan,جازان,2022,licenses_new,25569
+Jazan,جازان,2023,licenses_new,38098
+Jazan,جازان,2024,licenses_new,38408
+Madinah,المدينة المنورة,2020,licenses_new,25320
+Madinah,المدينة المنورة,2021,licenses_new,40140
+Madinah,المدينة المنورة,2022,licenses_new,48380
+Madinah,المدينة المنورة,2023,licenses_new,52438
+Madinah,المدينة المنورة,2024,licenses_new,55643
+Makkah,مكة المكرمة,2020,licenses_new,116807
+Makkah,مكة المكرمة,2021,licenses_new,165145
+Makkah,مكة المكرمة,2022,licenses_new,181711
+Makkah,مكة المكرمة,2023,licenses_new,218167
+Makkah,مكة المكرمة,2024,licenses_new,255964
+Najran,نجران,2020,licenses_new,10045
+Najran,نجران,2021,licenses_new,12553
+Najran,نجران,2022,licenses_new,14261
+Najran,نجران,2023,licenses_new,16794
+Najran,نجران,2024,licenses_new,17635
+Northern Borders,الحدود الشمالية,2020,licenses_new,5103
+Northern Borders,الحدود الشمالية,2021,licenses_new,7209
+Northern Borders,الحدود الشمالية,2022,licenses_new,9778
+Northern Borders,الحدود الشمالية,2023,licenses_new,24735
+Northern Borders,الحدود الشمالية,2024,licenses_new,20206
+Qassim,القصيم,2020,licenses_new,26943
+Qassim,القصيم,2021,licenses_new,39325
+Qassim,القصيم,2022,licenses_new,45653
+Qassim,القصيم,2023,licenses_new,43412
+Qassim,القصيم,2024,licenses_new,44046
+Riyadh,الرياض,2020,licenses_new,193080
+Riyadh,الرياض,2021,licenses_new,257099
+Riyadh,الرياض,2022,licenses_new,305998
+Riyadh,الرياض,2023,licenses_new,435904
+Riyadh,الرياض,2024,licenses_new,471526
+Tabuk,تبوك,2020,licenses_new,15320
+Tabuk,تبوك,2021,licenses_new,24448
+Tabuk,تبوك,2022,licenses_new,31587
+Tabuk,تبوك,2023,licenses_new,39888
+Tabuk,تبوك,2024,licenses_new,44836
+Al-Baha,الباحة,2020,licenses_renewal,3447
+Al-Baha,الباحة,2021,licenses_renewal,2337
+Al-Baha,الباحة,2022,licenses_renewal,1675
+Al-Baha,الباحة,2023,licenses_renewal,1454
+Al-Baha,الباحة,2024,licenses_renewal,1791
+Al-Jouf,الجوف,2020,licenses_renewal,3281
+Al-Jouf,الجوف,2021,licenses_renewal,3607
+Al-Jouf,الجوف,2022,licenses_renewal,2880
+Al-Jouf,الجوف,2023,licenses_renewal,5454
+Al-Jouf,الجوف,2024,licenses_renewal,6044
+Aseer,عسير,2020,licenses_renewal,11024
+Aseer,عسير,2021,licenses_renewal,12771
+Aseer,عسير,2022,licenses_renewal,11367
+Aseer,عسير,2023,licenses_renewal,10237
+Aseer,عسير,2024,licenses_renewal,14502
+Eastern,المنطقة الشرقية,2020,licenses_renewal,43008
+Eastern,المنطقة الشرقية,2021,licenses_renewal,45555
+Eastern,المنطقة الشرقية,2022,licenses_renewal,40893
+Eastern,المنطقة الشرقية,2023,licenses_renewal,41483
+Eastern,المنطقة الشرقية,2024,licenses_renewal,49949
+Hail,حائل,2020,licenses_renewal,4765
+Hail,حائل,2021,licenses_renewal,4578
+Hail,حائل,2022,licenses_renewal,4256
+Hail,حائل,2023,licenses_renewal,4602
+Hail,حائل,2024,licenses_renewal,5812
+Jazan,جازان,2020,licenses_renewal,2268
+Jazan,جازان,2021,licenses_renewal,2769
+Jazan,جازان,2022,licenses_renewal,2974
+Jazan,جازان,2023,licenses_renewal,2903
+Jazan,جازان,2024,licenses_renewal,3845
+Madinah,المدينة المنورة,2020,licenses_renewal,6146
+Madinah,المدينة المنورة,2021,licenses_renewal,7019
+Madinah,المدينة المنورة,2022,licenses_renewal,6852
+Madinah,المدينة المنورة,2023,licenses_renewal,6886
+Madinah,المدينة المنورة,2024,licenses_renewal,9683
+Makkah,مكة المكرمة,2020,licenses_renewal,19722
+Makkah,مكة المكرمة,2021,licenses_renewal,22781
+Makkah,مكة المكرمة,2022,licenses_renewal,21896
+Makkah,مكة المكرمة,2023,licenses_renewal,24954
+Makkah,مكة المكرمة,2024,licenses_renewal,27903
+Najran,نجران,2020,licenses_renewal,4682
+Najran,نجران,2021,licenses_renewal,4074
+Najran,نجران,2022,licenses_renewal,3967
+Najran,نجران,2023,licenses_renewal,3974
+Najran,نجران,2024,licenses_renewal,4381
+Northern Borders,الحدود الشمالية,2020,licenses_renewal,3872
+Northern Borders,الحدود الشمالية,2021,licenses_renewal,4385
+Northern Borders,الحدود الشمالية,2022,licenses_renewal,3420
+Northern Borders,الحدود الشمالية,2023,licenses_renewal,2335
+Northern Borders,الحدود الشمالية,2024,licenses_renewal,2864
+Qassim,القصيم,2020,licenses_renewal,8776
+Qassim,القصيم,2021,licenses_renewal,8548
+Qassim,القصيم,2022,licenses_renewal,7389
+Qassim,القصيم,2023,licenses_renewal,7170
+Qassim,القصيم,2024,licenses_renewal,9551
+Riyadh,الرياض,2020,licenses_renewal,55095
+Riyadh,الرياض,2021,licenses_renewal,51202
+Riyadh,الرياض,2022,licenses_renewal,46711
+Riyadh,الرياض,2023,licenses_renewal,38437
+Riyadh,الرياض,2024,licenses_renewal,44759
+Tabuk,تبوك,2020,licenses_renewal,5353
+Tabuk,تبوك,2021,licenses_renewal,5987
+Tabuk,تبوك,2022,licenses_renewal,4695
+Tabuk,تبوك,2023,licenses_renewal,5096
+Tabuk,تبوك,2024,licenses_renewal,6183
+Al-Baha,الباحة,2020,road_density_per_capita,
+Al-Baha,الباحة,2021,road_density_per_capita,
+Al-Baha,الباحة,2022,road_density_per_capita,
+Al-Baha,الباحة,2023,road_density_per_capita,
+Al-Baha,الباحة,2024,road_density_per_capita,0.01992521063002992
+Al-Jouf,الجوف,2020,road_density_per_capita,
+Al-Jouf,الجوف,2021,road_density_per_capita,
+Al-Jouf,الجوف,2022,road_density_per_capita,
+Al-Jouf,الجوف,2023,road_density_per_capita,
+Al-Jouf,الجوف,2024,road_density_per_capita,0.017727218346462077
+Aseer,عسير,2020,road_density_per_capita,
+Aseer,عسير,2021,road_density_per_capita,
+Aseer,عسير,2022,road_density_per_capita,
+Aseer,عسير,2023,road_density_per_capita,
+Aseer,عسير,2024,road_density_per_capita,0.014178426262738379
+Eastern,المنطقة الشرقية,2020,road_density_per_capita,
+Eastern,المنطقة الشرقية,2021,road_density_per_capita,
+Eastern,المنطقة الشرقية,2022,road_density_per_capita,
+Eastern,المنطقة الشرقية,2023,road_density_per_capita,
+Eastern,المنطقة الشرقية,2024,road_density_per_capita,0.006772954929816778
+Hail,حائل,2020,road_density_per_capita,
+Hail,حائل,2021,road_density_per_capita,
+Hail,حائل,2022,road_density_per_capita,
+Hail,حائل,2023,road_density_per_capita,
+Hail,حائل,2024,road_density_per_capita,0.024817844620736627
+Jazan,جازان,2020,road_density_per_capita,
+Jazan,جازان,2021,road_density_per_capita,
+Jazan,جازان,2022,road_density_per_capita,
+Jazan,جازان,2023,road_density_per_capita,
+Jazan,جازان,2024,road_density_per_capita,0.006074242250682755
+Madinah,المدينة المنورة,2020,road_density_per_capita,
+Madinah,المدينة المنورة,2021,road_density_per_capita,
+Madinah,المدينة المنورة,2022,road_density_per_capita,
+Madinah,المدينة المنورة,2023,road_density_per_capita,
+Madinah,المدينة المنورة,2024,road_density_per_capita,0.012303660333370388
+Makkah,مكة المكرمة,2020,road_density_per_capita,
+Makkah,مكة المكرمة,2021,road_density_per_capita,
+Makkah,مكة المكرمة,2022,road_density_per_capita,
+Makkah,مكة المكرمة,2023,road_density_per_capita,
+Makkah,مكة المكرمة,2024,road_density_per_capita,0.00637646796686656
+Najran,نجران,2020,road_density_per_capita,
+Najran,نجران,2021,road_density_per_capita,
+Najran,نجران,2022,road_density_per_capita,
+Najran,نجران,2023,road_density_per_capita,
+Najran,نجران,2024,road_density_per_capita,0.013040279846974938
+Northern Borders,الحدود الشمالية,2020,road_density_per_capita,
+Northern Borders,الحدود الشمالية,2021,road_density_per_capita,
+Northern Borders,الحدود الشمالية,2022,road_density_per_capita,
+Northern Borders,الحدود الشمالية,2023,road_density_per_capita,
+Northern Borders,الحدود الشمالية,2024,road_density_per_capita,0.017651306209992557
+Qassim,القصيم,2020,road_density_per_capita,
+Qassim,القصيم,2021,road_density_per_capita,
+Qassim,القصيم,2022,road_density_per_capita,
+Qassim,القصيم,2023,road_density_per_capita,
+Qassim,القصيم,2024,road_density_per_capita,0.017187021447116396
+Riyadh,الرياض,2020,road_density_per_capita,
+Riyadh,الرياض,2021,road_density_per_capita,
+Riyadh,الرياض,2022,road_density_per_capita,
+Riyadh,الرياض,2023,road_density_per_capita,
+Riyadh,الرياض,2024,road_density_per_capita,0.0064880282922965445
+Tabuk,تبوك,2020,road_density_per_capita,
+Tabuk,تبوك,2021,road_density_per_capita,
+Tabuk,تبوك,2022,road_density_per_capita,
+Tabuk,تبوك,2023,road_density_per_capita,
+Tabuk,تبوك,2024,road_density_per_capita,0.015459721266950542
+Al-Baha,الباحة,2020,road_density_per_area,
+Al-Baha,الباحة,2021,road_density_per_area,
+Al-Baha,الباحة,2022,road_density_per_area,
+Al-Baha,الباحة,2023,road_density_per_area,
+Al-Baha,الباحة,2024,road_density_per_area,0.6431089807589525
+Al-Jouf,الجوف,2020,road_density_per_area,
+Al-Jouf,الجوف,2021,road_density_per_area,
+Al-Jouf,الجوف,2022,road_density_per_area,
+Al-Jouf,الجوف,2023,road_density_per_area,
+Al-Jouf,الجوف,2024,road_density_per_area,0.1321177388272363
+Aseer,عسير,2020,road_density_per_area,
+Aseer,عسير,2021,road_density_per_area,
+Aseer,عسير,2022,road_density_per_area,
+Aseer,عسير,2023,road_density_per_area,
+Aseer,عسير,2024,road_density_per_area,0.3958258937796856
+Eastern,المنطقة الشرقية,2020,road_density_per_area,
+Eastern,المنطقة الشرقية,2021,road_density_per_area,
+Eastern,المنطقة الشرقية,2022,road_density_per_area,
+Eastern,المنطقة الشرقية,2023,road_density_per_area,
+Eastern,المنطقة الشرقية,2024,road_density_per_area,0.07130724960798686
+Hail,حائل,2020,road_density_per_area,
+Hail,حائل,2021,road_density_per_area,
+Hail,حائل,2022,road_density_per_area,
+Hail,حائل,2023,road_density_per_area,
+Hail,حائل,2024,road_density_per_area,0.15774846116527574
+Jazan,جازان,2020,road_density_per_area,
+Jazan,جازان,2021,road_density_per_area,
+Jazan,جازان,2022,road_density_per_area,
+Jazan,جازان,2023,road_density_per_area,
+Jazan,جازان,2024,road_density_per_area,0.685022907290193
+Madinah,المدينة المنورة,2020,road_density_per_area,
+Madinah,المدينة المنورة,2021,road_density_per_area,
+Madinah,المدينة المنورة,2022,road_density_per_area,
+Madinah,المدينة المنورة,2023,road_density_per_area,
+Madinah,المدينة المنورة,2024,road_density_per_area,0.19788392698180415
+Makkah,مكة المكرمة,2020,road_density_per_area,
+Makkah,مكة المكرمة,2021,road_density_per_area,
+Makkah,مكة المكرمة,2022,road_density_per_area,
+Makkah,مكة المكرمة,2023,road_density_per_area,
+Makkah,مكة المكرمة,2024,road_density_per_area,0.40075449746480485
+Najran,نجران,2020,road_density_per_area,
+Najran,نجران,2021,road_density_per_area,
+Najran,نجران,2022,road_density_per_area,
+Najran,نجران,2023,road_density_per_area,
+Najran,نجران,2024,road_density_per_area,0.06554312945668
+Northern Borders,الحدود الشمالية,2020,road_density_per_area,
+Northern Borders,الحدود الشمالية,2021,road_density_per_area,
+Northern Borders,الحدود الشمالية,2022,road_density_per_area,
+Northern Borders,الحدود الشمالية,2023,road_density_per_area,
+Northern Borders,الحدود الشمالية,2024,road_density_per_area,0.07751059702897452
+Qassim,القصيم,2020,road_density_per_area,
+Qassim,القصيم,2021,road_density_per_area,
+Qassim,القصيم,2022,road_density_per_area,
+Qassim,القصيم,2023,road_density_per_area,
+Qassim,القصيم,2024,road_density_per_area,0.35589630488314755
+Riyadh,الرياض,2020,road_density_per_area,
+Riyadh,الرياض,2021,road_density_per_area,
+Riyadh,الرياض,2022,road_density_per_area,
+Riyadh,الرياض,2023,road_density_per_area,
+Riyadh,الرياض,2024,road_density_per_area,0.1619940283517024
+Tabuk,تبوك,2020,road_density_per_area,
+Tabuk,تبوك,2021,road_density_per_area,
+Tabuk,تبوك,2022,road_density_per_area,
+Tabuk,تبوك,2023,road_density_per_area,
+Tabuk,تبوك,2024,road_density_per_area,0.10952518226915017
+Al-Baha,الباحة,2020,vehicles_total,18163
+Al-Baha,الباحة,2021,vehicles_total,12049
+Al-Baha,الباحة,2022,vehicles_total,12051
+Al-Baha,الباحة,2023,vehicles_total,13116
+Al-Baha,الباحة,2024,vehicles_total,14148
+Al-Jouf,الجوف,2020,vehicles_total,29016
+Al-Jouf,الجوف,2021,vehicles_total,26079
+Al-Jouf,الجوف,2022,vehicles_total,27537
+Al-Jouf,الجوف,2023,vehicles_total,26161
+Al-Jouf,الجوف,2024,vehicles_total,29543
+Aseer,عسير,2020,vehicles_total,102421
+Aseer,عسير,2021,vehicles_total,81182
+Aseer,عسير,2022,vehicles_total,80080
+Aseer,عسير,2023,vehicles_total,86390
+Aseer,عسير,2024,vehicles_total,97737
+Eastern,المنطقة الشرقية,2020,vehicles_total,433787
+Eastern,المنطقة الشرقية,2021,vehicles_total,376814
+Eastern,المنطقة الشرقية,2022,vehicles_total,398455
+Eastern,المنطقة الشرقية,2023,vehicles_total,418139
+Eastern,المنطقة الشرقية,2024,vehicles_total,472947
+Hail,حائل,2020,vehicles_total,32613
+Hail,حائل,2021,vehicles_total,25926
+Hail,حائل,2022,vehicles_total,26262
+Hail,حائل,2023,vehicles_total,27272
+Hail,حائل,2024,vehicles_total,33917
+Jazan,جازان,2020,vehicles_total,47581
+Jazan,جازان,2021,vehicles_total,38154
+Jazan,جازان,2022,vehicles_total,38675
+Jazan,جازان,2023,vehicles_total,40709
+Jazan,جازان,2024,vehicles_total,48667
+Madinah,المدينة المنورة,2020,vehicles_total,63420
+Madinah,المدينة المنورة,2021,vehicles_total,49751
+Madinah,المدينة المنورة,2022,vehicles_total,52829
+Madinah,المدينة المنورة,2023,vehicles_total,56554
+Madinah,المدينة المنورة,2024,vehicles_total,69587
+Makkah,مكة المكرمة,2020,vehicles_total,472799
+Makkah,مكة المكرمة,2021,vehicles_total,363548
+Makkah,مكة المكرمة,2022,vehicles_total,387694
+Makkah,مكة المكرمة,2023,vehicles_total,408087
+Makkah,مكة المكرمة,2024,vehicles_total,481988
+Najran,نجران,2020,vehicles_total,26517
+Najran,نجران,2021,vehicles_total,21463
+Najran,نجران,2022,vehicles_total,22284
+Najran,نجران,2023,vehicles_total,26079
+Najran,نجران,2024,vehicles_total,29999
+Northern Borders,الحدود الشمالية,2020,vehicles_total,12394
+Northern Borders,الحدود الشمالية,2021,vehicles_total,9585
+Northern Borders,الحدود الشمالية,2022,vehicles_total,9714
+Northern Borders,الحدود الشمالية,2023,vehicles_total,10823
+Northern Borders,الحدود الشمالية,2024,vehicles_total,12255
+Qassim,القصيم,2020,vehicles_total,103938
+Qassim,القصيم,2021,vehicles_total,84952
+Qassim,القصيم,2022,vehicles_total,90095
+Qassim,القصيم,2023,vehicles_total,96428
+Qassim,القصيم,2024,vehicles_total,106163
+Riyadh,الرياض,2020,vehicles_total,692874
+Riyadh,الرياض,2021,vehicles_total,569130
+Riyadh,الرياض,2022,vehicles_total,633581
+Riyadh,الرياض,2023,vehicles_total,679622
+Riyadh,الرياض,2024,vehicles_total,829033
+Tabuk,تبوك,2020,vehicles_total,35158
+Tabuk,تبوك,2021,vehicles_total,28081
+Tabuk,تبوك,2022,vehicles_total,28021
+Tabuk,تبوك,2023,vehicles_total,30010
+Tabuk,تبوك,2024,vehicles_total,33542
+Al-Baha,الباحة,2020,licenses_total,9290
+Al-Baha,الباحة,2021,licenses_total,10673
+Al-Baha,الباحة,2022,licenses_total,14750
+Al-Baha,الباحة,2023,licenses_total,13201
+Al-Baha,الباحة,2024,licenses_total,14303
+Al-Jouf,الجوف,2020,licenses_total,12350
+Al-Jouf,الجوف,2021,licenses_total,17931
+Al-Jouf,الجوف,2022,licenses_total,20626
+Al-Jouf,الجوف,2023,licenses_total,21093
+Al-Jouf,الجوف,2024,licenses_total,21849
+Aseer,عسير,2020,licenses_total,47432
+Aseer,عسير,2021,licenses_total,72266
+Aseer,عسير,2022,licenses_total,76644
+Aseer,عسير,2023,licenses_total,79429
+Aseer,عسير,2024,licenses_total,87608
+Eastern,المنطقة الشرقية,2020,licenses_total,156618
+Eastern,المنطقة الشرقية,2021,licenses_total,208007
+Eastern,المنطقة الشرقية,2022,licenses_total,228057
+Eastern,المنطقة الشرقية,2023,licenses_total,252861
+Eastern,المنطقة الشرقية,2024,licenses_total,257817
+Hail,حائل,2020,licenses_total,12742
+Hail,حائل,2021,licenses_total,17945
+Hail,حائل,2022,licenses_total,18515
+Hail,حائل,2023,licenses_total,18625
+Hail,حائل,2024,licenses_total,18770
+Jazan,جازان,2020,licenses_total,16891
+Jazan,جازان,2021,licenses_total,25175
+Jazan,جازان,2022,licenses_total,28543
+Jazan,جازان,2023,licenses_total,41001
+Jazan,جازان,2024,licenses_total,42253
+Madinah,المدينة المنورة,2020,licenses_total,31466
+Madinah,المدينة المنورة,2021,licenses_total,47159
+Madinah,المدينة المنورة,2022,licenses_total,55232
+Madinah,المدينة المنورة,2023,licenses_total,59324
+Madinah,المدينة المنورة,2024,licenses_total,65326
+Makkah,مكة المكرمة,2020,licenses_total,136529
+Makkah,مكة المكرمة,2021,licenses_total,187926
+Makkah,مكة المكرمة,2022,licenses_total,203607
+Makkah,مكة المكرمة,2023,licenses_total,243121
+Makkah,مكة المكرمة,2024,licenses_total,283867
+Najran,نجران,2020,licenses_total,14727
+Najran,نجران,2021,licenses_total,16627
+Najran,نجران,2022,licenses_total,18228
+Najran,نجران,2023,licenses_total,20768
+Najran,نجران,2024,licenses_total,22016
+Northern Borders,الحدود الشمالية,2020,licenses_total,8975
+Northern Borders,الحدود الشمالية,2021,licenses_total,11594
+Northern Borders,الحدود الشمالية,2022,licenses_total,13198
+Northern Borders,الحدود الشمالية,2023,licenses_total,27070
+Northern Borders,الحدود الشمالية,2024,licenses_total,23070
+Qassim,القصيم,2020,licenses_total,35719
+Qassim,القصيم,2021,licenses_total,47873
+Qassim,القصيم,2022,licenses_total,53042
+Qassim,القصيم,2023,licenses_total,50582
+Qassim,القصيم,2024,licenses_total,53597
+Riyadh,الرياض,2020,licenses_total,248175
+Riyadh,الرياض,2021,licenses_total,308301
+Riyadh,الرياض,2022,licenses_total,352709
+Riyadh,الرياض,2023,licenses_total,474341
+Riyadh,الرياض,2024,licenses_total,516285
+Tabuk,تبوك,2020,licenses_total,20673
+Tabuk,تبوك,2021,licenses_total,30435
+Tabuk,تبوك,2022,licenses_total,36282
+Tabuk,تبوك,2023,licenses_total,44984
+Tabuk,تبوك,2024,licenses_total,51019
+Al-Baha,الباحة,2020,deaths_per_1k_vehicles,5.230413477949678
+Al-Baha,الباحة,2021,deaths_per_1k_vehicles,7.635488422275707
+Al-Baha,الباحة,2022,deaths_per_1k_vehicles,8.13210521948386
+Al-Baha,الباحة,2023,deaths_per_1k_vehicles,5.10826471485209
+Al-Baha,الباحة,2024,deaths_per_1k_vehicles,4.311563471868816
+Al-Jouf,الجوف,2020,deaths_per_1k_vehicles,4.0667218086572925
+Al-Jouf,الجوف,2021,deaths_per_1k_vehicles,4.02622799953986
+Al-Jouf,الجوف,2022,deaths_per_1k_vehicles,2.977811671569161
+Al-Jouf,الجوف,2023,deaths_per_1k_vehicles,2.2170406330033257
+Al-Jouf,الجوف,2024,deaths_per_1k_vehicles,2.064786920759571
+Aseer,عسير,2020,deaths_per_1k_vehicles,5.86793723943332
+Aseer,عسير,2021,deaths_per_1k_vehicles,6.602448818703654
+Aseer,عسير,2022,deaths_per_1k_vehicles,5.694305694305695
+Aseer,عسير,2023,deaths_per_1k_vehicles,5.012154184512096
+Aseer,عسير,2024,deaths_per_1k_vehicles,4.706508282431423
+Eastern,المنطقة الشرقية,2020,deaths_per_1k_vehicles,1.106533851867391
+Eastern,المنطقة الشرقية,2021,deaths_per_1k_vehicles,1.3242607758735079
+Eastern,المنطقة الشرقية,2022,deaths_per_1k_vehicles,1.274924395477532
+Eastern,المنطقة الشرقية,2023,deaths_per_1k_vehicles,1.2627379890419215
+Eastern,المنطقة الشرقية,2024,deaths_per_1k_vehicles,1.048743305275221
+Hail,حائل,2020,deaths_per_1k_vehicles,5.028669548952871
+Hail,حائل,2021,deaths_per_1k_vehicles,5.438555889840314
+Hail,حائل,2022,deaths_per_1k_vehicles,4.569339730408956
+Hail,حائل,2023,deaths_per_1k_vehicles,3.080082135523614
+Hail,حائل,2024,deaths_per_1k_vehicles,3.2137276292124892
+Jazan,جازان,2020,deaths_per_1k_vehicles,6.872491120405203
+Jazan,جازان,2021,deaths_per_1k_vehicles,9.645122398700005
+Jazan,جازان,2022,deaths_per_1k_vehicles,9.36005171299289
+Jazan,جازان,2023,deaths_per_1k_vehicles,7.050038075118524
+Jazan,جازان,2024,deaths_per_1k_vehicles,5.260237943575729
+Madinah,المدينة المنورة,2020,deaths_per_1k_vehicles,4.856512141280353
+Madinah,المدينة المنورة,2021,deaths_per_1k_vehicles,5.547627183373199
+Madinah,المدينة المنورة,2022,deaths_per_1k_vehicles,5.527267220655322
+Madinah,المدينة المنورة,2023,deaths_per_1k_vehicles,5.46380450542844
+Madinah,المدينة المنورة,2024,deaths_per_1k_vehicles,3.7938120625978993
+Makkah,مكة المكرمة,2020,deaths_per_1k_vehicles,2.01565570147145
+Makkah,مكة المكرمة,2021,deaths_per_1k_vehicles,2.599381649740887
+Makkah,مكة المكرمة,2022,deaths_per_1k_vehicles,2.8398685561293187
+Makkah,مكة المكرمة,2023,deaths_per_1k_vehicles,2.8351797533369107
+Makkah,مكة المكرمة,2024,deaths_per_1k_vehicles,2.186776434268073
+Najran,نجران,2020,deaths_per_1k_vehicles,4.299128860730852
+Najran,نجران,2021,deaths_per_1k_vehicles,6.196710618273308
+Najran,نجران,2022,deaths_per_1k_vehicles,4.846526655896607
+Najran,نجران,2023,deaths_per_1k_vehicles,2.415736799723916
+Najran,نجران,2024,deaths_per_1k_vehicles,3.100103336777893
+Northern Borders,الحدود الشمالية,2020,deaths_per_1k_vehicles,5.809262546393416
+Northern Borders,الحدود الشمالية,2021,deaths_per_1k_vehicles,5.84246218049035
+Northern Borders,الحدود الشمالية,2022,deaths_per_1k_vehicles,5.558987029030265
+Northern Borders,الحدود الشمالية,2023,deaths_per_1k_vehicles,4.712187009147187
+Northern Borders,الحدود الشمالية,2024,deaths_per_1k_vehicles,3.6719706242350063
+Qassim,القصيم,2020,deaths_per_1k_vehicles,2.058919740614597
+Qassim,القصيم,2021,deaths_per_1k_vehicles,3.131179960448253
+Qassim,القصيم,2022,deaths_per_1k_vehicles,2.452966313335923
+Qassim,القصيم,2023,deaths_per_1k_vehicles,2.3126062969262042
+Qassim,القصيم,2024,deaths_per_1k_vehicles,1.8462176087714175
+Riyadh,الرياض,2020,deaths_per_1k_vehicles,1.4014092028276426
+Riyadh,الرياض,2021,deaths_per_1k_vehicles,1.8185651784302357
+Riyadh,الرياض,2022,deaths_per_1k_vehicles,1.5151969519287982
+Riyadh,الرياض,2023,deaths_per_1k_vehicles,1.4066642927980553
+Riyadh,الرياض,2024,deaths_per_1k_vehicles,1.1495320451658742
+Tabuk,تبوك,2020,deaths_per_1k_vehicles,5.717048751351044
+Tabuk,تبوك,2021,deaths_per_1k_vehicles,7.1222534810013896
+Tabuk,تبوك,2022,deaths_per_1k_vehicles,6.8876913743263986
+Tabuk,تبوك,2023,deaths_per_1k_vehicles,6.897700766411196
+Tabuk,تبوك,2024,deaths_per_1k_vehicles,6.976328185558404
+Al-Baha,الباحة,2020,injuries_per_1k_vehicles,34.57578593844629
+Al-Baha,الباحة,2021,injuries_per_1k_vehicles,46.89185824549755
+Al-Baha,الباحة,2022,injuries_per_1k_vehicles,43.64783005559705
+Al-Baha,الباحة,2023,injuries_per_1k_vehicles,38.12137846904544
+Al-Baha,الباحة,2024,injuries_per_1k_vehicles,38.94543398360192
+Al-Jouf,الجوف,2020,injuries_per_1k_vehicles,12.372484146677696
+Al-Jouf,الجوف,2021,injuries_per_1k_vehicles,16.21994708386058
+Al-Jouf,الجوف,2022,injuries_per_1k_vehicles,6.936122308167193
+Al-Jouf,الجوف,2023,injuries_per_1k_vehicles,5.083903520507626
+Al-Jouf,الجوف,2024,injuries_per_1k_vehicles,4.468063500660055
+Aseer,عسير,2020,injuries_per_1k_vehicles,16.77390378926197
+Aseer,عسير,2021,injuries_per_1k_vehicles,19.96748047596758
+Aseer,عسير,2022,injuries_per_1k_vehicles,16.695804195804197
+Aseer,عسير,2023,injuries_per_1k_vehicles,12.212061581201528
+Aseer,عسير,2024,injuries_per_1k_vehicles,12.543867726654184
+Eastern,المنطقة الشرقية,2020,injuries_per_1k_vehicles,4.8894964579390345
+Eastern,المنطقة الشرقية,2021,injuries_per_1k_vehicles,5.737578752381811
+Eastern,المنطقة الشرقية,2022,injuries_per_1k_vehicles,6.50261635567379
+Eastern,المنطقة الشرقية,2023,injuries_per_1k_vehicles,5.639273064698581
+Eastern,المنطقة الشرقية,2024,injuries_per_1k_vehicles,4.926556252603357
+Hail,حائل,2020,injuries_per_1k_vehicles,18.428234139760217
+Hail,حائل,2021,injuries_per_1k_vehicles,18.244233587904034
+Hail,حائل,2022,injuries_per_1k_vehicles,7.653644048435001
+Hail,حائل,2023,injuries_per_1k_vehicles,2.8600762687004986
+Hail,حائل,2024,injuries_per_1k_vehicles,5.366040628593331
+Jazan,جازان,2020,injuries_per_1k_vehicles,38.69191483995713
+Jazan,جازان,2021,injuries_per_1k_vehicles,40.49378833149866
+Jazan,جازان,2022,injuries_per_1k_vehicles,31.41564318034906
+Jazan,جازان,2023,injuries_per_1k_vehicles,25.276965781522513
+Jazan,جازان,2024,injuries_per_1k_vehicles,22.787515154005796
+Madinah,المدينة المنورة,2020,injuries_per_1k_vehicles,41.106906338694415
+Madinah,المدينة المنورة,2021,injuries_per_1k_vehicles,53.325561295250345
+Madinah,المدينة المنورة,2022,injuries_per_1k_vehicles,50.19970092184217
+Madinah,المدينة المنورة,2023,injuries_per_1k_vehicles,54.974007143614955
+Madinah,المدينة المنورة,2024,injuries_per_1k_vehicles,37.79441562360786
+Makkah,مكة المكرمة,2020,injuries_per_1k_vehicles,17.98227153610731
+Makkah,مكة المكرمة,2021,injuries_per_1k_vehicles,24.280150076468583
+Makkah,مكة المكرمة,2022,injuries_per_1k_vehicles,22.902082570274494
+Makkah,مكة المكرمة,2023,injuries_per_1k_vehicles,22.40453628760534
+Makkah,مكة المكرمة,2024,injuries_per_1k_vehicles,17.035693834701277
+Najran,نجران,2020,injuries_per_1k_vehicles,19.308368216615754
+Najran,نجران,2021,injuries_per_1k_vehicles,23.668639053254438
+Najran,نجران,2022,injuries_per_1k_vehicles,10.231556273559503
+Najran,نجران,2023,injuries_per_1k_vehicles,5.099888799417156
+Najran,نجران,2024,injuries_per_1k_vehicles,8.766958898629953
+Northern Borders,الحدود الشمالية,2020,injuries_per_1k_vehicles,25.818944650637405
+Northern Borders,الحدود الشمالية,2021,injuries_per_1k_vehicles,38.18466353677621
+Northern Borders,الحدود الشمالية,2022,injuries_per_1k_vehicles,37.26580193535104
+Northern Borders,الحدود الشمالية,2023,injuries_per_1k_vehicles,24.20770581169731
+Northern Borders,الحدود الشمالية,2024,injuries_per_1k_vehicles,18.115055079559365
+Qassim,القصيم,2020,injuries_per_1k_vehicles,12.170717158305912
+Qassim,القصيم,2021,injuries_per_1k_vehicles,13.74894057820887
+Qassim,القصيم,2022,injuries_per_1k_vehicles,12.764304345413175
+Qassim,القصيم,2023,injuries_per_1k_vehicles,11.085991620691086
+Qassim,القصيم,2024,injuries_per_1k_vehicles,8.656499910514963
+Riyadh,الرياض,2020,injuries_per_1k_vehicles,6.185828880864341
+Riyadh,الرياض,2021,injuries_per_1k_vehicles,7.998172649482544
+Riyadh,الرياض,2022,injuries_per_1k_vehicles,7.236643775618271
+Riyadh,الرياض,2023,injuries_per_1k_vehicles,6.8361530380123074
+Riyadh,الرياض,2024,injuries_per_1k_vehicles,6.637853981687098
+Tabuk,تبوك,2020,injuries_per_1k_vehicles,22.782865919563115
+Tabuk,تبوك,2021,injuries_per_1k_vehicles,23.111712545849507
+Tabuk,تبوك,2022,injuries_per_1k_vehicles,18.878698119267693
+Tabuk,تبوك,2023,injuries_per_1k_vehicles,16.227924025324892
+Tabuk,تبوك,2024,injuries_per_1k_vehicles,23.820881283167374
+Al-Baha,الباحة,2020,severe_per_1k_vehicles,
+Al-Baha,الباحة,2021,severe_per_1k_vehicles,32.20184247655407
+Al-Baha,الباحة,2022,severe_per_1k_vehicles,28.545348933698445
+Al-Baha,الباحة,2023,severe_per_1k_vehicles,22.949069838365354
+Al-Baha,الباحة,2024,severe_per_1k_vehicles,24.526434831778342
+Al-Jouf,الجوف,2020,severe_per_1k_vehicles,
+Al-Jouf,الجوف,2021,severe_per_1k_vehicles,12.308754170021857
+Al-Jouf,الجوف,2022,severe_per_1k_vehicles,6.827177978719541
+Al-Jouf,الجوف,2023,severe_per_1k_vehicles,4.204732235006307
+Al-Jouf,الجوف,2024,severe_per_1k_vehicles,4.535761432488237
+Aseer,عسير,2020,severe_per_1k_vehicles,
+Aseer,عسير,2021,severe_per_1k_vehicles,13.204897637407308
+Aseer,عسير,2022,severe_per_1k_vehicles,11.575924075924076
+Aseer,عسير,2023,severe_per_1k_vehicles,7.454566500752401
+Aseer,عسير,2024,severe_per_1k_vehicles,8.103379477577581
+Eastern,المنطقة الشرقية,2020,severe_per_1k_vehicles,
+Eastern,المنطقة الشرقية,2021,severe_per_1k_vehicles,4.341664587833786
+Eastern,المنطقة الشرقية,2022,severe_per_1k_vehicles,4.673049654289694
+Eastern,المنطقة الشرقية,2023,severe_per_1k_vehicles,4.14694635037631
+Eastern,المنطقة الشرقية,2024,severe_per_1k_vehicles,3.640999942911151
+Hail,حائل,2020,severe_per_1k_vehicles,
+Hail,حائل,2021,severe_per_1k_vehicles,17.202807991977163
+Hail,حائل,2022,severe_per_1k_vehicles,9.329068616251618
+Hail,حائل,2023,severe_per_1k_vehicles,4.65679084775594
+Hail,حائل,2024,severe_per_1k_vehicles,5.985199162661792
+Jazan,جازان,2020,severe_per_1k_vehicles,
+Jazan,جازان,2021,severe_per_1k_vehicles,27.31037374849295
+Jazan,جازان,2022,severe_per_1k_vehicles,21.254040077569492
+Jazan,جازان,2023,severe_per_1k_vehicles,18.47257363236631
+Jazan,جازان,2024,severe_per_1k_vehicles,14.938253847576386
+Madinah,المدينة المنورة,2020,severe_per_1k_vehicles,
+Madinah,المدينة المنورة,2021,severe_per_1k_vehicles,35.516874032682765
+Madinah,المدينة المنورة,2022,severe_per_1k_vehicles,32.87966836396676
+Madinah,المدينة المنورة,2023,severe_per_1k_vehicles,36.56682109134633
+Madinah,المدينة المنورة,2024,severe_per_1k_vehicles,25.536378921350252
+Makkah,مكة المكرمة,2020,severe_per_1k_vehicles,
+Makkah,مكة المكرمة,2021,severe_per_1k_vehicles,16.18768360711653
+Makkah,مكة المكرمة,2022,severe_per_1k_vehicles,15.282671385164589
+Makkah,مكة المكرمة,2023,severe_per_1k_vehicles,15.043360851975192
+Makkah,مكة المكرمة,2024,severe_per_1k_vehicles,12.085363121073554
+Najran,نجران,2020,severe_per_1k_vehicles,
+Najran,نجران,2021,severe_per_1k_vehicles,19.289008992219166
+Najran,نجران,2022,severe_per_1k_vehicles,8.70579788188835
+Najran,نجران,2023,severe_per_1k_vehicles,3.757812799570536
+Najran,نجران,2024,severe_per_1k_vehicles,6.50021667388913
+Northern Borders,الحدود الشمالية,2020,severe_per_1k_vehicles,
+Northern Borders,الحدود الشمالية,2021,severe_per_1k_vehicles,24.413145539906104
+Northern Borders,الحدود الشمالية,2022,severe_per_1k_vehicles,26.14782787729051
+Northern Borders,الحدود الشمالية,2023,severe_per_1k_vehicles,19.033539684006286
+Northern Borders,الحدود الشمالية,2024,severe_per_1k_vehicles,14.52468380252958
+Qassim,القصيم,2020,severe_per_1k_vehicles,
+Qassim,القصيم,2021,severe_per_1k_vehicles,10.05273566249176
+Qassim,القصيم,2022,severe_per_1k_vehicles,8.768522115544704
+Qassim,القصيم,2023,severe_per_1k_vehicles,7.207450118222923
+Qassim,القصيم,2024,severe_per_1k_vehicles,6.245113645997193
+Riyadh,الرياض,2020,severe_per_1k_vehicles,
+Riyadh,الرياض,2021,severe_per_1k_vehicles,6.362342522797955
+Riyadh,الرياض,2022,severe_per_1k_vehicles,5.213224512730022
+Riyadh,الرياض,2023,severe_per_1k_vehicles,4.877711433708738
+Riyadh,الرياض,2024,severe_per_1k_vehicles,5.061318427613859
+Tabuk,تبوك,2020,severe_per_1k_vehicles,
+Tabuk,تبوك,2021,severe_per_1k_vehicles,18.589081585413624
+Tabuk,تبوك,2022,severe_per_1k_vehicles,13.240069947539347
+Tabuk,تبوك,2023,severe_per_1k_vehicles,11.49616794401866
+Tabuk,تبوك,2024,severe_per_1k_vehicles,14.071909844374217
+Al-Baha,الباحة,2020,fatality_ratio,0.1313969571230982
+Al-Baha,الباحة,2021,fatality_ratio,0.1400304414003044
+Al-Baha,الباحة,2022,fatality_ratio,0.15705128205128205
+Al-Baha,الباحة,2023,fatality_ratio,0.11816578483245149
+Al-Baha,الباحة,2024,fatality_ratio,0.09967320261437909
+Al-Jouf,الجوف,2020,fatality_ratio,0.24737945492662475
+Al-Jouf,الجوف,2021,fatality_ratio,0.19886363636363635
+Al-Jouf,الجوف,2022,fatality_ratio,0.30036630036630035
+Al-Jouf,الجوف,2023,fatality_ratio,0.3036649214659686
+Al-Jouf,الجوف,2024,fatality_ratio,0.3160621761658031
+Aseer,عسير,2020,fatality_ratio,0.25916343251401464
+Aseer,عسير,2021,fatality_ratio,0.24849327770050997
+Aseer,عسير,2022,fatality_ratio,0.2543223647518126
+Aseer,عسير,2023,fatality_ratio,0.290994623655914
+Aseer,عسير,2024,fatality_ratio,0.27283511269276395
+Eastern,المنطقة الشرقية,2020,fatality_ratio,0.1845444059976932
+Eastern,المنطقة الشرقية,2021,fatality_ratio,0.18752348741074784
+Eastern,المنطقة الشرقية,2022,fatality_ratio,0.16392384640206517
+Eastern,المنطقة الشرقية,2023,fatality_ratio,0.18295218295218296
+Eastern,المنطقة الشرقية,2024,fatality_ratio,0.17551309271054494
+Hail,حائل,2020,fatality_ratio,0.21437908496732025
+Hail,حائل,2021,fatality_ratio,0.2296416938110749
+Hail,حائل,2022,fatality_ratio,0.37383177570093457
+Hail,حائل,2023,fatality_ratio,0.5185185185185185
+Hail,حائل,2024,fatality_ratio,0.3745704467353952
+Jazan,جازان,2020,fatality_ratio,0.15083025830258304
+Jazan,جازان,2021,fatality_ratio,0.19236800836382645
+Jazan,جازان,2022,fatality_ratio,0.22954977805960686
+Jazan,جازان,2023,fatality_ratio,0.21808510638297873
+Jazan,جازان,2024,fatality_ratio,0.18754578754578755
+Madinah,المدينة المنورة,2020,fatality_ratio,0.10566037735849057
+Madinah,المدينة المنورة,2021,fatality_ratio,0.09423011266643906
+Madinah,المدينة المنورة,2022,fatality_ratio,0.09918478260869565
+Madinah,المدينة المنورة,2023,fatality_ratio,0.09040374488004681
+Madinah,المدينة المنورة,2024,fatality_ratio,0.0912232204561161
+Makkah,مكة المكرمة,2020,fatality_ratio,0.10079323109465892
+Makkah,مكة المكرمة,2021,fatality_ratio,0.09670487106017192
+Makkah,مكة المكرمة,2022,fatality_ratio,0.11032064128256514
+Makkah,مكة المكرمة,2023,fatality_ratio,0.11233009708737864
+Makkah,مكة المكرمة,2024,fatality_ratio,0.11376146788990826
+Najran,نجران,2020,fatality_ratio,0.18210862619808307
+Najran,نجران,2021,fatality_ratio,0.20748829953198128
+Najran,نجران,2022,fatality_ratio,0.32142857142857145
+Najran,نجران,2023,fatality_ratio,0.32142857142857145
+Najran,نجران,2024,fatality_ratio,0.2612359550561798
+Northern Borders,الحدود الشمالية,2020,fatality_ratio,0.1836734693877551
+Northern Borders,الحدود الشمالية,2021,fatality_ratio,0.13270142180094788
+Northern Borders,الحدود الشمالية,2022,fatality_ratio,0.12980769230769232
+Northern Borders,الحدود الشمالية,2023,fatality_ratio,0.16293929712460065
+Northern Borders,الحدود الشمالية,2024,fatality_ratio,0.16853932584269662
+Qassim,القصيم,2020,fatality_ratio,0.1446923597025017
+Qassim,القصيم,2021,fatality_ratio,0.18549511854951187
+Qassim,القصيم,2022,fatality_ratio,0.1611962071480671
+Qassim,القصيم,2023,fatality_ratio,0.17260061919504643
+Qassim,القصيم,2024,fatality_ratio,0.1757847533632287
+Riyadh,الرياض,2020,fatality_ratio,0.1847061061441887
+Riyadh,الرياض,2021,fatality_ratio,0.18525147664220512
+Riyadh,الرياض,2022,fatality_ratio,0.17312894499549145
+Riyadh,الرياض,2023,fatality_ratio,0.17065333809353803
+Riyadh,الرياض,2024,fatality_ratio,0.14761462205700124
+Tabuk,تبوك,2020,fatality_ratio,0.20059880239520958
+Tabuk,تبوك,2021,fatality_ratio,0.23557126030624265
+Tabuk,تبوك,2022,fatality_ratio,0.2673130193905817
+Tabuk,تبوك,2023,fatality_ratio,0.29827089337175794
+Tabuk,تبوك,2024,fatality_ratio,0.2265246853823814

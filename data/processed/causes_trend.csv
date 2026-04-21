@@ -1,0 +1,21 @@
+year,cause,accidents
+2020,Unsafe distance,247830.0
+2021,Unsafe distance,368810.0
+2022,Unsafe distance,459123.0
+2020,Sudden deviation,262740.0
+2021,Sudden deviation,377624.0
+2022,Sudden deviation,474604.0
+2020,Distraction,116391.0
+2021,Distraction,177287.0
+2022,Distraction,193827.0
+2020,Right-of-way violation,104868.0
+2021,Right-of-way violation,148731.0
+2022,Right-of-way violation,184610.0
+2020,Wrong direction,9686.0
+2021,Wrong direction,12377.0
+2022,Wrong direction,14379.0
+2023,Sudden deviation,522213.0
+2023,Unsafe distance,510358.0
+2023,Distraction,178683.0
+2023,Right-of-way violation,198028.0
+2023,Wrong direction,14379.0

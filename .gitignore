@@ -1,0 +1,52 @@
+# Data — raw inputs stay local
+data/raw/
+data/interim/
+*.xlsx
+*.xls
+!docs/**/*.xlsx
+
+# Outputs — processed panel CSVs ARE committed (they're the artifact)
+# Only gitignore large intermediates:
+data/processed/*.parquet
+data/processed/large_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Docker
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
