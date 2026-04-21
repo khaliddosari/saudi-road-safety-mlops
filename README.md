@@ -6,7 +6,7 @@
 
 **Multi-source risk intelligence and Vision 2030 forecasting for Saudi road traffic safety.**
 
-[العربية](docs/README.ar.md) • [Architecture](docs/ARCHITECTURE.md) • [API Docs](docs/API.md)
+[Architecture](docs/ARCHITECTURE.md) • [API Docs](docs/API.md) • [العربية](docs/README.ar.md)
 
 ---
 
