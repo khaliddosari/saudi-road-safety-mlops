@@ -1,5 +1,9 @@
 # Saudi Road Safety Analytics Platform
 
+![CI](https://github.com/khaliddosari/saudi-road-safety-mlops/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 **Multi-source risk intelligence and Vision 2030 forecasting for Saudi road traffic safety.**
 
 [العربية](docs/README.ar.md) • [Architecture](docs/ARCHITECTURE.md) • [API Docs](docs/API.md)
