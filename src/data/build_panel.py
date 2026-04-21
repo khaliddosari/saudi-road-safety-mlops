@@ -15,8 +15,9 @@ Outputs:
     - data/processed/causes_trend.csv       (cause x year, national counts)
 """
 
-import pandas as pd
 from pathlib import Path
+
+import pandas as pd
 
 UPLOADS = Path('/mnt/user-data/uploads')
 OUT = Path('/home/claude/project/data/processed')
